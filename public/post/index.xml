@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugoplate</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2023 08:40:33 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>投資日誌</title>
+      <link>//localhost:1313/post/20241218-01/</link>
+      <pubDate>Wed, 02 Aug 2023 08:40:33 +0800</pubDate>
+      <guid>//localhost:1313/post/20241218-01/</guid>
+      <description>&lt;h3 id=&#34;美股收盤&#34;&gt;美股收盤&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;名稱&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;指數&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;漲跌&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;幅度&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Dow&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;35630.68&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;+71.15&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;+0.20%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Nasdaq&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;14283.91&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;-62.11&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;-0.43%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;S&amp;amp;P500&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;4576.72&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;-12.24&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;-0.27%&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;本月第一個交易日，美股即遇到了一些拋售壓力。不過走勢相對溫和。市場利率上升的可能引起一些拋售。不過截至今日，標普500指數今年仍上漲 19.2%。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
