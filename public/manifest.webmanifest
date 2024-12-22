@@ -1,10 +1,10 @@
 {
-  "name": "Hugoplate",
-  "short_name": "Hugoplate",
+  "name": "OwlchFactory",
+  "short_name": "OwlchFactory",
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "/?utm_source=web_app_manifest",
+  "start_url": "https://owlchfactory.netlify.app/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#000",
 

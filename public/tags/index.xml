@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugoplate</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Hugoplate</description>
+    <title>Tags on OwlchFactory</title>
+    <link>https://owlchfactory.netlify.app/tags/</link>
+    <description>Recent content in Tags on OwlchFactory</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Dec 2024 17:56:52 +0800</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://owlchfactory.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exam</title>
-      <link>/tags/exam/</link>
+      <link>https://owlchfactory.netlify.app/tags/exam/</link>
       <pubDate>Sun, 22 Dec 2024 17:56:52 +0800</pubDate>
-      <guid>/tags/exam/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/exam/</guid>
       <description></description>
     </item>
     <item>
       <title>PMI</title>
-      <link>/tags/pmi/</link>
+      <link>https://owlchfactory.netlify.app/tags/pmi/</link>
       <pubDate>Sun, 22 Dec 2024 17:56:52 +0800</pubDate>
-      <guid>/tags/pmi/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/pmi/</guid>
       <description></description>
     </item>
     <item>
       <title>PMP</title>
-      <link>/tags/pmp/</link>
+      <link>https://owlchfactory.netlify.app/tags/pmp/</link>
       <pubDate>Sun, 22 Dec 2024 17:56:52 +0800</pubDate>
-      <guid>/tags/pmp/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/pmp/</guid>
       <description></description>
     </item>
     <item>
       <title>專案管理</title>
-      <link>/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</link>
+      <link>https://owlchfactory.netlify.app/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sun, 22 Dec 2024 17:56:52 +0800</pubDate>
-      <guid>/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>/tags/google/</link>
+      <link>https://owlchfactory.netlify.app/tags/google/</link>
       <pubDate>Wed, 02 Aug 2023 10:00:03 +0800</pubDate>
-      <guid>/tags/google/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Trends</title>
-      <link>/tags/trends/</link>
+      <link>https://owlchfactory.netlify.app/tags/trends/</link>
       <pubDate>Wed, 02 Aug 2023 10:00:03 +0800</pubDate>
-      <guid>/tags/trends/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/trends/</guid>
       <description></description>
     </item>
     <item>
       <title>熱搜</title>
-      <link>/tags/%E7%86%B1%E6%90%9C/</link>
+      <link>https://owlchfactory.netlify.app/tags/%E7%86%B1%E6%90%9C/</link>
       <pubDate>Wed, 02 Aug 2023 10:00:03 +0800</pubDate>
-      <guid>/tags/%E7%86%B1%E6%90%9C/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/%E7%86%B1%E6%90%9C/</guid>
       <description></description>
     </item>
     <item>
       <title>趨勢</title>
-      <link>/tags/%E8%B6%A8%E5%8B%A2/</link>
+      <link>https://owlchfactory.netlify.app/tags/%E8%B6%A8%E5%8B%A2/</link>
       <pubDate>Wed, 02 Aug 2023 10:00:03 +0800</pubDate>
-      <guid>/tags/%E8%B6%A8%E5%8B%A2/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/%E8%B6%A8%E5%8B%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>關鍵字</title>
-      <link>/tags/%E9%97%9C%E9%8D%B5%E5%AD%97/</link>
+      <link>https://owlchfactory.netlify.app/tags/%E9%97%9C%E9%8D%B5%E5%AD%97/</link>
       <pubDate>Wed, 02 Aug 2023 10:00:03 +0800</pubDate>
-      <guid>/tags/%E9%97%9C%E9%8D%B5%E5%AD%97/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/%E9%97%9C%E9%8D%B5%E5%AD%97/</guid>
       <description></description>
     </item>
     <item>
       <title>Nextjs</title>
-      <link>/tags/nextjs/</link>
+      <link>https://owlchfactory.netlify.app/tags/nextjs/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/tags/nextjs/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/nextjs/</guid>
       <description></description>
     </item>
     <item>
       <title>Silicon</title>
-      <link>/tags/silicon/</link>
+      <link>https://owlchfactory.netlify.app/tags/silicon/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/tags/silicon/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/silicon/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>/tags/software/</link>
+      <link>https://owlchfactory.netlify.app/tags/software/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/tags/software/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Tailwind</title>
-      <link>/tags/tailwind/</link>
+      <link>https://owlchfactory.netlify.app/tags/tailwind/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/tags/tailwind/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/tailwind/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>https://owlchfactory.netlify.app/tags/technology/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>/tags/technology/</guid>
+      <guid>https://owlchfactory.netlify.app/tags/technology/</guid>
       <description></description>
     </item>
   </channel>
